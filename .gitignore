@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+node_modules
+__pycache__
+# Certificates and keys must never be committed
+*.pfx
+*.p12
+*.pem
+*.key
+*.cert
